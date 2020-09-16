@@ -1,0 +1,31 @@
+body {
+  background: url("https://source.unsplash.com/4dQiaWKiL-Y") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/*this will adjust bacgkground image to full page width*/
+html {
+  height: 100%;
+}
+
+h1 {
+  font-family:'Sacramento', cursive;
+  font-size: 5em;
+  letter-spacing: 2px;
+  color: #fb7813;
+}
+
+p {
+  font-family:  'Architects Daughter', cursive;
+  font-size: 2em;
+  letter-spacing: 1.5px;
+  color: #17706e;
+}
+
+
+/* This is where classes start*/
+.title {
+  text-align: center;
+  margin-top: 20%;
+}
